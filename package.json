@@ -19,5 +19,9 @@
   "dependencies": {
     "cross-spawn": "^6.0.5",
     "express": "^4.16.4"
-  }
+  },
+  "pkg": {
+    "assets": []
+  },
+  "bin": "reviver.js"
 }
