@@ -1,0 +1,23 @@
+{
+  "name": "unizoomreviver",
+  "version": "1.0.0",
+  "description": "uniZoom Reviver",
+  "main": "reviver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniperCareTechnologies/uniZoomReviver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UniperCareTechnologies/uniZoomReviver/issues"
+  },
+  "homepage": "https://github.com/UniperCareTechnologies/uniZoomReviver#readme",
+  "dependencies": {
+    "cross-spawn": "^6.0.5",
+    "express": "^4.16.4"
+  }
+}
